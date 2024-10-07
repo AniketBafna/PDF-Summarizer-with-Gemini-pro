@@ -1,6 +1,5 @@
 streamlit
 google-generativeai
-google.cloud
-aiplatform
+google-cloud-aiplatform
 python-dotenv
 pathlib
